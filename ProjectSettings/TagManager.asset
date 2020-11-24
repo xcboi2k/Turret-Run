@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - SpeedButton
+  - Background
+  - Ground
+  - Turret
+  - TurretHolder
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - BGCollector
+  - Background
+  - Ground
+  - Player
+  - Turret
+  - TurretCollector
+  - TurretHolder
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3408730621
+    locked: 0
+  - name: Ground
+    uniqueID: 4030638775
+    locked: 0
+  - name: Turret
+    uniqueID: 1033877143
+    locked: 0
+  - name: Ship
+    uniqueID: 2069211489
+    locked: 0
+  - name: Canvas
+    uniqueID: 848242763
+    locked: 0
